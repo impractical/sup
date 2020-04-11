@@ -3,7 +3,7 @@ package magicnumber
 import (
 	"errors"
 
-	filetype "gopkg.in/h2non/filetype.v1"
+	"github.com/h2non/filetype"
 )
 
 // the minimum number of bytes needed to determine the MIME type.
